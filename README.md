@@ -1,2 +1,2 @@
 # Storage.sol-favoritenumber
-#Solidity
+# Solidity
